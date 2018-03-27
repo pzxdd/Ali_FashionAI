@@ -1,2 +1,3 @@
 # Ali_FashionAI
-no
+## URL : http://fashionai.alibaba.com/
+#A repository for competition.
